@@ -4,6 +4,6 @@ Simple stop watch application written in [Kotlin](https://kotlinlang.org/), usin
 
 ### Images
 
-<div>
- <img src=".github/Screenshot.png" alt="StopWatch Preview">
+<div align="center">
+ <img src=".github/Screenshot.png" alt="StopWatch Preview" width=640>
 </div>
